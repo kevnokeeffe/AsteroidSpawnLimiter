@@ -27,7 +27,7 @@ Ideal for [Luna Multiplayer](https://lunamultiplayer.com/), this mod helps you c
 
 ## 📜 License
 
-This mod is licensed under the MIT License. See [LICENSE](./License) for details.
+This mod is licensed under the MIT License. See [LICENSE](./MIT License) for details.
 
 ## 💬 Feedback & Contributions
 
