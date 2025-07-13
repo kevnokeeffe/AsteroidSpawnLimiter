@@ -33,7 +33,6 @@ Ideal for [Luna Multiplayer](https://lunamultiplayer.com/), this mod helps you c
 
 - Tested on KSP 1.12.5
 - Compatible with most mods
-- No external dependencies
 
 ## 📜 License
 
