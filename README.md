@@ -6,7 +6,7 @@ Ideal for [Luna Multiplayer](https://lunamultiplayer.com/), this mod helps you c
 
 ## 📦 Features
 
-- Limits random asteroid generation to 2 asteroids and 2 comets
+- Limits random asteroid generation to 3 asteroids and 2 comets
 - Tracked Asteroids & Comets are not limited and will not be included
 - Lightweight, non-invasive plugin
 - Compatible with KSP 1.12.x
