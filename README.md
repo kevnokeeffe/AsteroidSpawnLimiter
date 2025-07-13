@@ -14,7 +14,7 @@ Ideal for [Luna Multiplayer](https://lunamultiplayer.com/), this mod helps you c
 
 ## 🔧 Installation
 
-1. Download the latest release from the [GitHub Releases page](https://github.com/kevnokeeffe/AsteroidSpawnLimiter).
+1. Download the latest release from the [GitHub Releases page](https://github.com/kevnokeeffe/AsteroidSpawnLimiter](https://github.com/kevnokeeffe/AsteroidSpawnLimiter/releases/tag/v1.0.0).
 2. Extract the ZIP file.
 3. Copy the `GameData/AsteroidSpawnLimiter/` folder into your KSP `GameData/` directory.
 
