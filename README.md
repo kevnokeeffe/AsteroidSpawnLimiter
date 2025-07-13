@@ -2,7 +2,7 @@
 
 Asteroid Spawn Limiter is a lightweight plugin for [Kerbal Space Program (KSP)](https://kerbalspaceprogram.com) that limits the frequency of asteroid spawns in the game.
 
-Ideal for Luna Multiplayer, this mod helps you reduce or completely suppress uninvited rock visitors.
+Ideal for [Luna Multiplayer](https://lunamultiplayer.com/), this mod helps you reduce or completely suppress uninvited rock visitors.
 
 ## 📦 Features
 
