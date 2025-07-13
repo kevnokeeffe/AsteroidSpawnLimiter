@@ -12,6 +12,16 @@ Ideal for [Luna Multiplayer](https://lunamultiplayer.com/), this mod helps you c
 - Compatible with KSP 1.12.x
 - Designed for use with stock and modded games
 
+## ⚙️ Dependencies
+
+- **Harmony** — Required for patching game methods to limit asteroid and comet spawning.  
+- **Kopernicus** — Required, as this mod references Kopernicus APIs.
+
+> **Note:**  
+> Harmony is typically installed automatically by CKAN or mod managers.  
+> Kopernicus must be installed separately or via CKAN alongside this mod for it to function correctly.
+
+
 ## 🔧 Installation
 
 1. Download the latest release from the [GitHub Releases page](https://github.com/kevnokeeffe/AsteroidSpawnLimiter/releases/tag/v1.0.0).
