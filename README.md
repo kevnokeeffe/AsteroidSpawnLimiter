@@ -6,27 +6,19 @@ Ideal for [Luna Multiplayer](https://lunamultiplayer.com/), this mod helps you c
 
 ## 📦 Features
 
+- Cleanup on Awake: Excess untracked asteroids and comets are now automatically removed when the game starts.
 - Limits random asteroid generation to 3 asteroids and 2 comets
-- Tracked Asteroids & Comets are not limited and will not be included
 - Lightweight, non-invasive plugin
 - Compatible with KSP 1.12.x
 - Designed for use with stock and modded games
 
+
 ## ⚙️ Dependencies
 
 - **Harmony** — Required for patching game methods to limit asteroid and comet spawning.  
-- **Kopernicus** — Required, as this mod references Kopernicus APIs.
 
 > **Note:**  
 > Harmony is typically installed automatically by CKAN or mod managers.  
-> Kopernicus must be installed separately or via CKAN alongside this mod for it to function correctly.
-
-## 🧩 Works Well With
-
-**[AsteroidCleaner](https://github.com/kevnokeeffe/AsteroidCleaner)**  
-*AsteroidCleaner* works best when paired with *AsteroidSpawnLimiter*.  
-While *AsteroidSpawnLimiter* limits how frequently new asteroids and comets are spawned, *AsteroidCleaner* handles regular cleanup of untracked objects that exceed your desired limits.  
-Together, they offer full control over asteroid and comet population, helping to keep your game running smoothly over time.
 
 ## 🔧 Installation
 
@@ -34,6 +26,8 @@ Together, they offer full control over asteroid and comet population, helping to
 2. Extract the ZIP file.
 3. Copy the `GameData/AsteroidSpawnLimiter/` folder into your KSP `GameData/` directory.
 
+## 🤝 Works Well With
+[AsteroidCleaner](https://github.com/kevnokeeffe/AsteroidCleaner) — This mod complements Asteroid Spawn Limiter by continuously cleaning up excess untracked asteroids and comets during gameplay, ensuring your game stays performant and tidy even after spawning is limited.
 
 ## 🔄 Compatibility
 
