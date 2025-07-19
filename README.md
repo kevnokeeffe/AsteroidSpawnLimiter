@@ -8,6 +8,7 @@ Ideal for [Luna Multiplayer](https://lunamultiplayer.com/), this mod helps you c
 
 - Cleanup on Awake: Excess untracked asteroids and comets are now automatically removed when the game starts.
 - Limits random asteroid generation to 3 asteroids and 2 comets
+- Runs a check every 10 minutes 
 - Tracked Asteroids & Comets are not limited and will not be included
 - Lightweight, non-invasive plugin
 - Compatible with KSP 1.12.x
