@@ -27,6 +27,8 @@ Ideal for [Luna Multiplayer](https://lunamultiplayer.com/), this mod helps you c
 2. Extract the ZIP file.
 3. Copy the `GameData/AsteroidSpawnLimiter/` folder into your KSP `GameData/` directory.
 
+## 🤝 Works Well With
+[AsteroidCleaner](https://github.com/kevnokeeffe/AsteroidCleaner) — This mod complements Asteroid Spawn Limiter by continuously cleaning up excess untracked asteroids and comets during gameplay, ensuring your game stays performant and tidy even after spawning is limited.
 
 ## 🔄 Compatibility
 
